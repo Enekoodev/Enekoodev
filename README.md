@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6ded99e4-ed8d-4aab-93b2-7984cde86bb5)![image](https://github.com/user-attachments/assets/270832ec-00ac-4650-bfcd-d43e3be6aa46)
+![image](https://github.com/user-attachments/assets/270832ec-00ac-4650-bfcd-d43e3be6aa46)
 - 👋 Hi, I’m @Enekoodev
 - 👀 I’m interested in FiveM
 - 🌱 I’m currently learning FiveM scripts
