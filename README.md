@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Enekoodev
 - 👀 I’m interested in FiveM
 - 🌱 I’m currently learning FiveM scripts
-- 💞️ I’m looking to collaborate on Eclipse RolePlay (https://discord.gg/XDKB4fQSej)
+- 💞️ I’m looking to collaborate on Maybe RolePlay (https://discord.gg/Y2JvEeBJVT)
 - 📫 How to reach me in discord my username is: enekoodev
 - 😄 Pronouns: Eneko 
 - ⚡ Nationality: Spain
