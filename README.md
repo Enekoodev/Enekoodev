@@ -1,27 +1,30 @@
-![image](https://github.com/user-attachments/assets/270832ec-00ac-4650-bfcd-d43e3be6aa46)
-- 👋 Hi, I’m @Enekoodev
-- 👀 I’m interested in FiveM
-- 🌱 I’m currently learning FiveM scripts
-- 💞️ I’m looking to collaborate on LSE Hosting (https://discord.gg/xsY6zmgHk5)
-- 📫 How to reach me in discord my username is: enekoodev
-- 😄 Pronouns: Eneko 
-- ⚡ Nationality: Spain
+# Hi 👋, I'm Eneko
 
-⚙️  Programs I use  🔧
+### I am a Developer from Spain.
 
-![image](https://github.com/user-attachments/assets/761679c7-5d48-4f48-bda5-0e4b526e3509)  ![image](https://github.com/user-attachments/assets/0b28c2e8-92f3-424d-a411-d6191c4f39c9)  ![image](https://github.com/user-attachments/assets/7f567ee8-57fe-4760-82ef-e4197eed6896)  ![image](https://github.com/user-attachments/assets/1258762e-c8f0-4436-b315-77f6aff29504)  ![image](https://github.com/user-attachments/assets/52b9b699-2103-455a-b4de-5dec7db88822)  ![image](https://github.com/user-attachments/assets/48a498e4-4dd2-45d5-8318-ff3ad4b2f397)  ![image](https://github.com/user-attachments/assets/ce074a6d-2b1b-4071-b7ea-8ae6ad0941f5)  ![image](https://github.com/user-attachments/assets/6fc03f46-5971-4d04-b2b9-0cee95a6064d)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enekoodev&label=Profile views&color=0e75b6&style=flat" alt="enekoodev" /> </p>
 
+<p align="left"> <a href="https://twitter.com/enekoodeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/enekoodeveloper?logo=twitter&style=for-the-badge" alt="enekoodeveloper" /></a> </p>
 
+- 🔭 I'm currently working on **LSE Network**
 
+- 🌱 I'm currently learning **Programation**
 
+- 👯 I'm looking to collaborate on **LSE Network**
 
+- 💬 Ask me about **Web development, FiveM development or Hosting issues.**
 
+- 📫 How to reach me **hello@enekoodev.xyz**
 
+- 👨‍💻 All of my projects are available at **[https://enekoodev.xyz/](https://enekoodev.xyz/)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/enekoodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="enekoodev" height="30" width="40" /></a>
+<a href="https://twitter.com/enekoodeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enekoodeveloper" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
-
-<!---
-Enekoodev/Enekoodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enekoodev&" alt="enekoodev" /></p>
