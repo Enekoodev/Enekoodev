@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Eneko</h1>
 <h3 align="center">I am a Developer from Spain.</h3>
 
-- 🔭 I'm currently working on **LSE Network**
+- 🔭 I'm currently working on **enekoodev.xyz**
 
 - 🌱 I'm currently learning **Programation**
 
-- 👯 I'm looking to collaborate on **LSE Network**
+- 👯 I'm looking to collaborate on **host.enekoodev.xyz**
 
 - 💬 Ask me about **Web development, FiveM development or Hosting issues.**
 
