@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web development, FiveM development or Hosting issues.**
 
-- 📫 How to reach me **hello@enekoodev.xyz**
+- 📫 How to reach me **https://discord.gg/4d2hjaDR3U**
 
 - 👨‍💻 All of my projects are available at **[https://enekoodev.xyz/](https://enekoodev.xyz/)**
 
